@@ -1,0 +1,13 @@
+C:\Repos\ContactsList\src\ContactsList.Receiver\bin\Debug\netcoreapp2.0\ContactsList.Receiver.deps.json
+C:\Repos\ContactsList\src\ContactsList.Receiver\bin\Debug\netcoreapp2.0\ContactsList.Receiver.runtimeconfig.json
+C:\Repos\ContactsList\src\ContactsList.Receiver\bin\Debug\netcoreapp2.0\ContactsList.Receiver.runtimeconfig.dev.json
+C:\Repos\ContactsList\src\ContactsList.Receiver\bin\Debug\netcoreapp2.0\ContactsList.Receiver.dll
+C:\Repos\ContactsList\src\ContactsList.Receiver\bin\Debug\netcoreapp2.0\ContactsList.Receiver.pdb
+C:\Repos\ContactsList\src\ContactsList.Receiver\bin\Debug\netcoreapp2.0\ContactsList.Core.dll
+C:\Repos\ContactsList\src\ContactsList.Receiver\bin\Debug\netcoreapp2.0\ContactsList.Core.pdb
+C:\Repos\ContactsList\src\ContactsList.Receiver\obj\Debug\netcoreapp2.0\ContactsList.Receiver.csprojResolveAssemblyReference.cache
+C:\Repos\ContactsList\src\ContactsList.Receiver\obj\Debug\netcoreapp2.0\ContactsList.Receiver.csproj.CoreCompileInputs.cache
+C:\Repos\ContactsList\src\ContactsList.Receiver\obj\Debug\netcoreapp2.0\ContactsList.Receiver.AssemblyInfoInputs.cache
+C:\Repos\ContactsList\src\ContactsList.Receiver\obj\Debug\netcoreapp2.0\ContactsList.Receiver.AssemblyInfo.cs
+C:\Repos\ContactsList\src\ContactsList.Receiver\obj\Debug\netcoreapp2.0\ContactsList.Receiver.dll
+C:\Repos\ContactsList\src\ContactsList.Receiver\obj\Debug\netcoreapp2.0\ContactsList.Receiver.pdb

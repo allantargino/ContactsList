@@ -1,0 +1,13 @@
+C:\Repos\ContactsList\src\ContactsList.Processer\bin\Debug\netcoreapp2.0\ContactsList.Processer.deps.json
+C:\Repos\ContactsList\src\ContactsList.Processer\bin\Debug\netcoreapp2.0\ContactsList.Processer.runtimeconfig.json
+C:\Repos\ContactsList\src\ContactsList.Processer\bin\Debug\netcoreapp2.0\ContactsList.Processer.runtimeconfig.dev.json
+C:\Repos\ContactsList\src\ContactsList.Processer\bin\Debug\netcoreapp2.0\ContactsList.Processer.dll
+C:\Repos\ContactsList\src\ContactsList.Processer\bin\Debug\netcoreapp2.0\ContactsList.Processer.pdb
+C:\Repos\ContactsList\src\ContactsList.Processer\bin\Debug\netcoreapp2.0\ContactsList.Core.dll
+C:\Repos\ContactsList\src\ContactsList.Processer\bin\Debug\netcoreapp2.0\ContactsList.Core.pdb
+C:\Repos\ContactsList\src\ContactsList.Processer\obj\Debug\netcoreapp2.0\ContactsList.Processer.csprojResolveAssemblyReference.cache
+C:\Repos\ContactsList\src\ContactsList.Processer\obj\Debug\netcoreapp2.0\ContactsList.Processer.csproj.CoreCompileInputs.cache
+C:\Repos\ContactsList\src\ContactsList.Processer\obj\Debug\netcoreapp2.0\ContactsList.Processer.AssemblyInfoInputs.cache
+C:\Repos\ContactsList\src\ContactsList.Processer\obj\Debug\netcoreapp2.0\ContactsList.Processer.AssemblyInfo.cs
+C:\Repos\ContactsList\src\ContactsList.Processer\obj\Debug\netcoreapp2.0\ContactsList.Processer.dll
+C:\Repos\ContactsList\src\ContactsList.Processer\obj\Debug\netcoreapp2.0\ContactsList.Processer.pdb
