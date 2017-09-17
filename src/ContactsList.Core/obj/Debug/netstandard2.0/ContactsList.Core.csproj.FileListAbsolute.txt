@@ -1,9 +1,0 @@
-C:\Repos\ContactsList\src\ContactsList.Core\bin\Debug\netstandard2.0\ContactsList.Core.deps.json
-C:\Repos\ContactsList\src\ContactsList.Core\bin\Debug\netstandard2.0\ContactsList.Core.dll
-C:\Repos\ContactsList\src\ContactsList.Core\bin\Debug\netstandard2.0\ContactsList.Core.pdb
-C:\Repos\ContactsList\src\ContactsList.Core\obj\Debug\netstandard2.0\ContactsList.Core.csprojResolveAssemblyReference.cache
-C:\Repos\ContactsList\src\ContactsList.Core\obj\Debug\netstandard2.0\ContactsList.Core.csproj.CoreCompileInputs.cache
-C:\Repos\ContactsList\src\ContactsList.Core\obj\Debug\netstandard2.0\ContactsList.Core.AssemblyInfoInputs.cache
-C:\Repos\ContactsList\src\ContactsList.Core\obj\Debug\netstandard2.0\ContactsList.Core.AssemblyInfo.cs
-C:\Repos\ContactsList\src\ContactsList.Core\obj\Debug\netstandard2.0\ContactsList.Core.dll
-C:\Repos\ContactsList\src\ContactsList.Core\obj\Debug\netstandard2.0\ContactsList.Core.pdb
